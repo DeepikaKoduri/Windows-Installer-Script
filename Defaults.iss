@@ -1,0 +1,8 @@
+#define MyAppName ""
+#define MyAppVersion ""
+#define MyAppPublisher ""
+#define CoreAppName ""
+#define CompanyName ""
+#define MyAppURL ""
+#define AppFolder ""
+#define InstallerName = ""
